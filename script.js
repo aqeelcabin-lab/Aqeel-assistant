@@ -1,6 +1,6 @@
 // Aqeel Assistant v4 — GitHub frontend
 // Replace the value below with your deployed Google Apps Script URL ending in /exec.
-const API_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
+const API_URL = "https://script.google.com/macros/s/AKfycby0THqdT9zjs8uowwJK_A5BGWEEEgBTSdz7II2Er18kAtHew_J8ceOjRe8qQ3I_tVAM/exec";
 
 let currentLanguage = "es";
 let currentProperty = "cabin";
